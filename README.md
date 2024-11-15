@@ -1,1 +1,2 @@
-a bubble game made with HTML,CSS,javascript
+# a bubble game made with HTML,CSS,javascript
+# changes to check the git repository ...
